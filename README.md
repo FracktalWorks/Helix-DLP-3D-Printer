@@ -1,6 +1,9 @@
 # Helix-DLP-3D-Printer
 Design and development files for Helix DLP 3D Printer
 
+## System Architecture
+
+![alt-text](https://github.com/FracktalWorks/Helix-DLP-3D-Printer/blob/main/Doccumentaion/System%20Architecture%20Diagram.png?raw=true)
 
 ## Research Links & Resources:
 
