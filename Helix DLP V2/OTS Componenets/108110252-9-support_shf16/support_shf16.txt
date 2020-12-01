@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"SHF16";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"SUPPLIER";"FLI";"";
+"MASS";"34";"g";
+"TraceParts.PartNumber";"10-13012015-088988";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Shaft support block SHF16";"";
+"TraceParts.InstanceId";"10-13012015-088988C5STNL9UYSN1RCO9HNU7CWEOI";"";
+"TraceParts.PartTitle";"SHF - Shaft support block";"";
+"SHAFT_DIAMETER";"16";"mm";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"FLI:10-13012015-088988";"";
+"TraceParts.PartStatus";"Published";"";
